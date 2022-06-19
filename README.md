@@ -7,6 +7,7 @@ The purpose of this analysis was to identify the number of retiring employees by
 ### Resources
 
 Data files: [Data](https://github.com/boggesstristyn/Pewlett-Hackard-Analysis/tree/main/Data)
+
 Software: PostgreSQL 12.11.1, pgAdmin 4
 
 ## Results
